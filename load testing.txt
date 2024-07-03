@@ -1,0 +1,5 @@
+Load Testing of Bangla puzzle: We know that volume testing by definition refers to verifying the performance of software when it processes large data volumes. 
+To better understand the use of volume testing for websites.Volume testing helps plan processor and disk capacity, the amount of system memory and network bandwidth required to safely process an estimated amount of data.
+Volume testing prepares the system to handle extreme data loads. No other type of testing can replace the insight volume testing provides with project teams and testers.
+
+I can't give a load test because I don't have large data volume of LuxStay website. When Luxstay gives me large volume data form database then I will do volume testing
